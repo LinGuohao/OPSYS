@@ -103,7 +103,7 @@ int main(){
   struct student adam={"Barath Adam",2014}; // define a data structure to send
     sleep(1);
     union sigval s_value_ptr;
-    //不可以使用 adam， 必须使用在通用代码中的结构体
+    //不可以使用 adam， 必须使用在通用代码中的结构体 因为子进程创建的地址不会跟父进程共享 传递的是地址会导致父进程读取时找不到地址
     s_value_ptr.sival_ptr=&zoli;  //the struct data must define in commmon code
 				//so &adam instead &zoli is a bad solution
 
