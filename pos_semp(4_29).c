@@ -1,7 +1,7 @@
 //*********************************
 // Compile with -pthread 
 //*****************************
-
+https://blog.csdn.net/lamdoc/article/details/8787548?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-11.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-11.control
 
 #include <sys/ipc.h>
 #include <sys/shm.h>
