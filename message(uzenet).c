@@ -8,7 +8,7 @@
 #include <wait.h> 
 
 struct messg { 
-     long mtype;//this is a free value e.g for the address of the message
+     long mtype;//message type
      char mtext [ 1024 ]; //this is the message itself
 }; 
 
@@ -43,8 +43,8 @@ int receive( int mqueue )
 	 
       //第三个参数 
           //0：接收第一个消息
-          //>0：接收类型等于msgtyp的第一个消息
-          //<0：接收类型等于或者小于msgtyp绝对值的第一个消息
+          //>0：接收类型等于msgtype的第一个消息
+          //<0：接收类型等于或者小于msgtype绝对值的第一个消息
      //第四个参数
           //0: 阻塞式接收消息，没有该类型的消息msgrcv函数一直阻塞等待
           //IPC_NOWAIT：如果没有返回条件的消息调用立即返回，此时错误码为ENOMSG
