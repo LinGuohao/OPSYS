@@ -78,3 +78,4 @@ int main(int argc,char **argv)
     }
 
 }
+//比mq2.c多加了判断剩余message queue里剩余的message数量
