@@ -1,3 +1,4 @@
+//注意共享内存不会自动阻塞！
 #include <sys/ipc.h>
 #include <sys/shm.h>
 #include <sys/types.h>
