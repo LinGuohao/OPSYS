@@ -1,0 +1,30 @@
+Wed May 12 11:11:45 2021
+  ===> 11 people came, 2 of them were sick and 9 vaccinated
+
+Wed May 12 11:11:58 2021
+  ===> 11 people came, 3 of them were sick and 8 vaccinated
+
+Wed May 12 11:14:11 2021
+  ===> 11 people came, 3 of them were sick and 8 vaccinated
+
+Wed May 12 11:20:14 2021
+  ===> 11 people came, 4 of them were sick and 7 vaccinated
+
+Wed May 12 11:20:27 2021
+  ===> 11 people came, 2 of them were sick and 9 vaccinated
+
+Wed May 12 11:23:03 2021
+  ===> 10 people came, 2 of them were sick and 8 vaccinated
+
+Wed May 12 11:25:51 2021
+  ===> 7 people came, 2 of them were sick and 5 vaccinated
+
+Fri May 14 16:49:21 2021
+  ===> 7 people came, 1 of them were sick and 6 vaccinated
+
+Fri May 14 17:35:03 2021
+  ===> 7 people came, 3 of them were sick and 4 vaccinated
+
+Fri May 14 18:59:40 2021
+  ===> 11 people came, 3 of them were sick and 8 vaccinated
+
